@@ -1,3 +1,8 @@
+---
+layout: default
+title: Frontpage
+---
+
 # Felix Hallenberg's site
 
 TODO: All
