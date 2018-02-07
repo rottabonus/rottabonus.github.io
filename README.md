@@ -1,22 +1,23 @@
 ---
 layout: default
-title: Frontpage
+title: Readme
 ---
 
-# Felix Hallenberg's site
+This site is set up with [GitHub Pages](https://pages.github.com/) and
+theme used is [Jekyll's minima](https://github.com/jekyll/minima)
 
-TODO: All
+
+Things under construction:
+
+1. Picture gallery
+2. Search
+3. Contact info (but please contact with GitHub until better contact implemented)
+4. Post categorizing
+
 
 ```
-TestataanMarkDownia
+This site is free; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
 ```
-
-# Blogipostaukset
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>

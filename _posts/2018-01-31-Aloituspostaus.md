@@ -8,6 +8,7 @@ date:   2018-01-31 16:37 --0200
 
 This is my personal blog and this is my initial post! I'm studying
 Information and Communications Technology and majoring in Software Development. 
-Site is under construction and I will write about my current projects every now and then.
+Site is under construction!
 
 You can find the source code to this page at [GitHub](https://github.com/rottabonus/rottabonus.github.io)
+
